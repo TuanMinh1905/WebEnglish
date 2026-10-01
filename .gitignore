@@ -18,3 +18,9 @@ Thumbs.db
 # Editor
 .vscode/
 *.swp
+
+# Build output (generated on server during deploy)
+vocab-app/build/
+
+# Personal chat history (local only)
+vocab-app/data/chat-history.json
